@@ -12,3 +12,6 @@ Throughout this practice we will see how to apply different techniques for data 
 4. Exploratory data analysis
 5. Dimensionality reduction (sklearn PCA)
 6. Training and testing
+
+### Read DataMining/preparacion_datos.ipynb for more information
+
