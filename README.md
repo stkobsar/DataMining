@@ -17,3 +17,10 @@ Throughout this practice we will see how to apply different techniques for data 
 
 ## Unsupervised methods
 
+Throughout this activity we will see how to apply different unsupervised techniques as well as some of their real applications:
+
+- Clustering with different strategies: k-means and elbow rule, density-based and hierarchical.
+
+- Optimization with dimensionality reduction: t-SNE.
+
+- Application: identification of tourist points of interest.
