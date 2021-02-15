@@ -13,7 +13,7 @@ Throughout this practice we will see how to apply different techniques for data 
 5. Dimensionality reduction (sklearn PCA)
 6. Training and testing
 
-##### Read DataMining/preparacion_datos.ipynb for more information
+##### Read DataMining/data_processing/preparacion_datos.ipynb for more information
 
 ## Unsupervised methods
 
@@ -24,3 +24,7 @@ Throughout this activity we will see how to apply different unsupervised techniq
 - Optimization with dimensionality reduction: t-SNE.
 
 - Application: identification of tourist points of interest.
+
+##### Read DataMining/unsupervised_methods/unsupervised_methods.ipynb for more information
+
+
