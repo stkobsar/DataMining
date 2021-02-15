@@ -42,3 +42,7 @@ Throughout this activity we will see how to apply different supervised algorithm
 - And finally we will study the different decision boundaries of the different algorithms.
 
 ##### Read DataMining/supervised_methods/supervised_methods.ipynb for more information
+
+## Temporal Series and Classifiers
+
+
