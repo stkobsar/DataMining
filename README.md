@@ -15,7 +15,7 @@ Throughout this practice we will see how to apply different techniques for data 
 
 ##### Read DataMining/data_processing/preparacion_datos.ipynb for more information
 
-## Unsupervised methods
+## Unsupervised Methods
 
 Throughout this activity we will see how to apply different unsupervised techniques as well as some of their real applications:
 
@@ -27,4 +27,18 @@ Throughout this activity we will see how to apply different unsupervised techniq
 
 ##### Read DataMining/unsupervised_methods/unsupervised_methods.ipynb for more information
 
+## Supervised Methods
 
+Throughout this activity we will see how to apply different supervised algorithms as well as some of their real applications:
+
+- kNN (K Nearest Neighbors): User rating of a given APP.
+
+- SVM (Support Vector Machine): Face recognition.
+
+- Decision Trees: Prediction of child seat sales.
+
+- Naive-Bayes: Buying or renting a house? What is more convenient for me?
+
+- And finally we will study the different decision boundaries of the different algorithms.
+
+##### Read DataMining/supervised_methods/supervised_methods.ipynb for more information
