@@ -1,4 +1,5 @@
-# DataMining
+# Data Mining Advanced Models
+
 
 This repository has the activities carried out in the Advanced Data Mining Course in the Master Degree of Data Science coursed in UOC (Open University of Catalunya). It contains different jupyter notebooks covering different and interesting topics in Data Mining, Artificial Inteligence and Data Processing.  
 
