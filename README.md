@@ -45,4 +45,13 @@ Throughout this activity we will see how to apply different supervised algorithm
 
 ## Temporal Series and Classifiers
 
+This practice is divided into two parts:
+
+- In the first exercise we will see how to decompose and compose time series to make forward predictions.
+
+- In the second exercise we will study different methods of combining classifiers.
+
+##### Read DataMining/time_series/time_series.ipynb for more information
+
+
 
